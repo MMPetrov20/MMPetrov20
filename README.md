@@ -18,7 +18,7 @@
 <ul>
   <li>I’m currently learning HTML5, CSS3 and C++.</li>
   <li>Most of my projects are available on <a href = "https://github.com/MMPetrov20?tab=repositories">Github</a>.</li>
-  <li>Fun fact: I like all my thing to be under a specific order which makes their location and purpose easier to remember</li>
+  <li>Fun fact: I like all my things to be under a specific order, which makes their location and purpose easier to remember.</li>
   <li>How to reach me: <a href = "mailto:gaivanova20@codingburgas.bg">mmpetrov20@codingburgas.bg<a/></li>
 </ul>
 
